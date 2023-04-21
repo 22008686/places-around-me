@@ -24,7 +24,7 @@ Run the django server and execute the html file.
 
 ## Code:
 
-map.html
+## map.html
 ```
 <!DOCTYPE html>
 <html>
@@ -66,13 +66,18 @@ map.html
                 This Image Map shows various locations around my home.<br>
                 Click the location and get information about it.
             </font>
-        </p>
+            
+            
+            
+            
+</p>
 
 
-    </body>
+</body>
+
 </html>
 ```
-lake.html
+## lake.html
 ```
 <!DOCTYPE html>
 <html>
@@ -112,7 +117,7 @@ lake.html
 
 </html>
 ```
-land.html
+## land.html
 ```
 <!DOCTYPE html>
 <html>
@@ -152,7 +157,7 @@ land.html
 
 </html>
 ```
-poombarai.html
+## poombarai.html
 ```
 <!DOCTYPE html>
 <html>
@@ -193,7 +198,7 @@ poombarai.html
 
 </html>
 ```
-resort.html
+## resort.html
 ```
 <!DOCTYPE html>
 <html>
@@ -232,7 +237,7 @@ resort.html
  </html>
  
 ```
-valley.html
+## valley.html
 ```
 <!DOCTYPE html>
 <html>
@@ -274,27 +279,27 @@ valley.html
 ```
 ## Output:
 
-map.html
+# map.html
 
 ![map1](https://user-images.githubusercontent.com/118916413/233533222-356bca8a-abc6-4cd5-99ca-1d5178612d74.png)
 
-lake.html
+# lake.html
 
 ![map2](https://user-images.githubusercontent.com/118916413/233533576-46706969-dba2-441c-9e31-83d58301ab1b.png)
 
-land.html
+# land.html
 
 ![map3](https://user-images.githubusercontent.com/118916413/233533632-d0f0aac0-6f66-4dfb-b4f3-561ee75ee849.png)
 
-poombarai.html
+# poombarai.html
 
 ![map4](https://user-images.githubusercontent.com/118916413/233533678-4b714571-ce1c-40de-8c88-23f091fc481d.png)
 
-resort.html
+# resort.html
 
 ![map5](https://user-images.githubusercontent.com/118916413/233533746-736ec6d6-706d-4de8-95d6-c94c16f079ab.png)
 
-valley.html
+# valley.html
 
 ![map6](https://user-images.githubusercontent.com/118916413/233533778-a63ee969-39fd-4bf7-9c6b-6fd5f783abc7.png)
 
